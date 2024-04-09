@@ -16,10 +16,10 @@ Skills and Technologies: Listing of specific skills, tools, programming language
 
 Industry: Classification of the industry or sector in which the job is situated, such as technology, finance, healthcare, retail, etc.
 
-Источник: https://www.kaggle.com/datasets/zain280/data-science-salaries/data
-
 Company Size: Information about the size of the employing company, often categorized by the number of employees or revenue.
 
 Benefits and Perks: Additional non-monetary benefits or perks offered to employees, such as stock options, health insurance, flexible work arrangements, and professional development opportunities.
 
 Survey Source: Information about the source of the salary data, such as surveys conducted by industry associations, job boards, recruitment agencies, or companies themselves.
+
+Источник: https://www.kaggle.com/datasets/zain280/data-science-salaries/data
